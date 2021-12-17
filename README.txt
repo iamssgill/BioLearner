@@ -1,3 +1,7 @@
+# BioLearner
+##### *BioLearner: A Machine Learning-Powered Smart Heart Disease Risk Prediction System Utilizing Biomedical Markers*
+
+# Code Description 
 The file Source_Code.ipynb is a Jupyter Notebook. The program is written in Python 
 and uses libraries from Scikit Learn, Keras, TensorFlow, and Numpy.
 
@@ -11,3 +15,12 @@ from the Cleveland Clinic.
 
 Without this dataset, the code will not run, but the dataset can be requested from
 aforementioned sources.
+
+### Warning
+The copyright of the shared work is reserved. Reference should be cite to the BioLearner article for use in academic studies.
+
+### To cite (text)
+TBA
+
+### To cite (.bib)
+TBA
