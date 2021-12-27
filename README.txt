@@ -20,7 +20,7 @@ aforementioned sources.
 The copyright of the shared work is reserved. Reference should be cite to the BioLearner article for use in academic studies.
 
 ### To cite (text)
-TBA
+Syed Saad Amer, Gurleen Wander, Manmeet Singh, Rami Bahsoon, Nicholas R. Jennings and Sukhpal Singh Gill, "BioLearner: A Machine Learning-Powered Smart Heart Disease Risk Prediction System Utilizing Biomedical Markers." Journal of Interconnection Networks (2021): 2145003.
 
 ### To cite (.bib)
-TBA
+@article{amer2021biolearner, title={BioLearner: A Machine Learning-Powered Smart Heart Disease Risk Prediction System Utilizing Biomedical Markers}, author={Amer, Syed Saad and Wander, Gurleen and Singh, Manmeet and Bahsoon, Rami and Jennings, Nicholas R and Gill, Sukhpal Singh}, journal={Journal of Interconnection Networks}, pages={2145003}, year={2021}, publisher={World Scientific}
